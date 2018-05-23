@@ -1,6 +1,6 @@
 # Mars Rover Tech Challenge
 
-#### Problem
+### Problem
 
 ##### MARS ROVERS
 [Mars Rover Challenge](https://code.google.com/archive/p/marsrovertechchallenge/)
