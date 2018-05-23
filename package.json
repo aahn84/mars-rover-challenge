@@ -1,0 +1,20 @@
+{
+  "name": "mars-rover-challenge-angelaahn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MarsRover.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
